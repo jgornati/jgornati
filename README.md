@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Exadec](www.exadec.com)
 
-- 🌱 I’m currently learning **blockchain development**
+- 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [jgornati.github.io](jgornati.github.io)
+- 👨‍💻 All of my projects are available at [jgornati.vercel.app](jgornati.vercel.app)
 
 - 💬 Ask me about **React, Laravel, entrepreneurship or uControllers**
 

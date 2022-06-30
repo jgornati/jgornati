@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://jgornati.vercel.app](jgornati.vercel.app)
+- 👨‍💻 All of my projects are available at [jgornati.vercel.app](https://jgornati.vercel.app)
 
 - 💬 Ask me about **React, Laravel, entrepreneurship or uControllers**
 

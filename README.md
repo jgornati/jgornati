@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel Gornati</h1>
 <h3 align="center">A passionate fullstack developer from Argentina 🇦🇷</h3>
 
-- 🔭 I’m currently working on [Exadec](www.exadec.com)
+- 🔭 I’m currently working on [Laudus](www.laudus.cl)
 
 - 🌱 I’m currently learning **DevOps**
 
